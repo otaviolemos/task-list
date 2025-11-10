@@ -294,6 +294,3 @@ async function main() {
     rl.close();
   }
 }
-
-// // Run the application
-// main().catch(console.error);
